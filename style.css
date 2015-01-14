@@ -1,0 +1,59 @@
+
+.main_head{background-color: gainsboro;
+height: 40px;
+margin-left:105px !important;
+}
+.main_head1{
+height: 40px;
+margin-left:105px !important;
+margin-top:50px !important;
+}
+.main_hr{
+height: 10px;
+margin-left:105px !important;
+}
+.main_logo_section{
+margin-left:105px !important;
+}
+.main_links{
+
+margin-left:105px !important;
+margin-top:10px !important;
+}
+.first_side
+{
+    margin:15px !important;
+    height: 200px;
+    background-color: beige
+}
+.second_side
+{
+    height: 400px;
+    background-color: beige;
+}
+.second_side_sub_one
+{
+    background-color: beige;
+    margin:5px !important
+}
+.second_side_sub_two
+{
+    background-color: beige;
+    margin:5px !important
+}
+.second_side_sub_one_sub {
+    background-color: brown;
+    margin: 10px !important;
+    height: 100px;
+}
+.second_side_sub_two_sub {
+    background-color: brown;
+    margin: 10px !important;
+    height: 130px;
+}
+.last_side
+{
+    margin:5px !important;
+    height: 150px;
+    background-color: beige
+}
